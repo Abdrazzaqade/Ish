@@ -1,4 +1,3 @@
-Introduction
 After dicovering data analytics in 2011, I have always been interested in making better business decisions using this technique. 
 My journey in business analytics started when I curated an excel sheet for my friend's retail business. 
 I had configured it to calculate her profits without expressly having to do so. 
