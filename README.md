@@ -21,6 +21,7 @@ Customer satisfaction and retention are pivotal for business success, especially
 
 This project sought out:
 1. To explore the most prominent features and hyperparameters that have been used to train models for customer churn prediction.
-2. To determine the best model for customer churn prediction by evaluating the performance of proposed model and traditional machine learning models.
+2. To determine the best model for customer churn prediction by evaluating the performance of proposed model and conventional machine learning models.
 
-
+**Solution**
+The selected hybrid model was Temporal Convolutio networks which combines CNN and RNN. The model proved best when tested with selected conventional models.
